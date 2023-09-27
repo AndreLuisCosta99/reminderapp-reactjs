@@ -4,13 +4,13 @@
   "homepage": "https://aj1402.github.io/reminderapp-reactjs/",
   "private": true,
   "dependencies": {
-    "gh-pages": "^1.0.0",
+    "gh-pages": "^6.0.0",
     "moment": "^2.18.1",
-    "react": "^15.6.1",
+    "react": "^18.2.0",
     "react-bootstrap": "^0.31.1",
-    "react-dom": "^15.6.1",
+    "react-dom": "^18.2.0",
     "react-redux": "^5.0.5",
-    "react-scripts": "1.0.9",
+    "react-scripts": "^2.1.3",
     "redux": "^3.7.2",
     "sfcookies": "^1.0.2"
   },
